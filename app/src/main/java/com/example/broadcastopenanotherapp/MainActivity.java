@@ -25,7 +25,9 @@ public class MainActivity extends AppCompatActivity {
 //                        "com.example.servicemusicplayerpractice","com.example.servicemusicplayerpractice.MainActivity"));
 //                startActivity(intent);
 
-                //changinggggggggggggggggg
+            public void changeCheck{
+
+                }
 
 
                 Intent LaunchIntent = getPackageManager().getLaunchIntentForPackage("com.example.servicemusicplayerpractice");//pass the packagename of app you want to open
